@@ -1,1 +1,11 @@
-# GIT-TP-GRUPAL-ORM-JPA
+# Integrantes del Grupo
+
+* Barfi, Matias
+
+* Barrera, Ignacio
+
+* Guevara, Octavio
+
+* Kotlik, Maximiliano
+
+* Marsala, Francisco
